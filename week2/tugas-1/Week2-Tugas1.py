@@ -1,3 +1,7 @@
+# Nama  : Juan Jordan Anugrah
+# NIM   : F1D02310061
+# Kelas : D
+
 import sys
 from PySide6.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit, QComboBox, QPushButton, QMessageBox, QFrame
 
